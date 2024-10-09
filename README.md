@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, Backend development (Node.js)**
 
-- 👨‍💻 All of my projects are available at [https://juancfs.github.io/portfolio/](https://juancfs.github.io/portfolio/)
-
 - 📫 How to reach me **juanfaracco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
