@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Faracco</h1>
-<h3 align="center">A passionate web developer with a great curiosity and desire to improve every day</h3>
+<h3 align="center">A Shopify Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juancfs&label=Profile%20views&color=0e75b6&style=flat" alt="juancfs" /> </p>
-
-- 🌱 I’m currently learning **React, Backend development (Node.js)**
 
 - 📫 How to reach me **juanfaracco@gmail.com**
 
